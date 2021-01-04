@@ -9,3 +9,5 @@ The purpose of this project was to show that we could write a program that could
 
 I took this assigment a step further, and converted "Mary Had A Little Lamb" (by ear) into the requested format. 
 When prompted to "Please enter the file name:" enter "littleLamb.music" to hear it play. 
+
+Note: there is an error in the MIDISequencePlayer class created by professor Tyson that causes the program to run until manually stopped. 
